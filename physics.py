@@ -2,6 +2,7 @@ import matrix_maths
 import math
 import structure
 
+SEX = True
 
 def check_complete(nodes: list, fixed: list, beams: list):
     """Checks if all the nodes are connected into one structure"""
